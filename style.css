@@ -8,15 +8,6 @@ a {
 .saw {
   color:gray;
 }
-h1{
-  background-image:url('back1.PNG');
-  background-size: 25%;
-  font-size:45px;
-  text-align: center;
-  border-bottom:1px solid gray;
-  margin:0px;
-  padding:150px;
-}
 #jak{
   border-bottom:1px solid gray;
   border-top:1px solid gray
