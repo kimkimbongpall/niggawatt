@@ -16,7 +16,7 @@ header {width: 100%; height: 90px; background: #fff; box-shadow: 0 4px 10px rgba
 .related a {display: block; float: left;margin-top: 23px; padding: 10px 20px; border: 1px solid #ddd;}
 
 /*section.main*/
-.main {width: 100%; height: auto; background-image: url(../img/main_5month_02.jpg); background-size: cover; background-position:center; background-repeat: no-repeat; position: relative;}
+.main {width: 100%; height: auto; background-image: url(main_5month_02.jpg); background-size: cover; background-position:center; background-repeat: no-repeat; position: relative;}
 .main .inner {width: 1400px; height: 800px;margin: 0 auto;  position: relative;}
 .main .inner .mainTitle {width: 653px; height: auto; }
 .main .inner .mainTitle h2{ position: absolute; top: 30%; left: 0; font-size: 50px; line-height: 1.3; color: #222; animation-name: titani;  animation-duration: 1s;}
