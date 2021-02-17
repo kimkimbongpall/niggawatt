@@ -1,4 +1,5 @@
-#header{ text-align: center;}
+.header{ text-align: center;}
+.header .subt{text-align: center;font-weight: 100;color: gray;font-size: small;}
 .nav-container{
     display: flex;
     flex-direction: row;
@@ -27,11 +28,15 @@
     grid-template-columns: 150px 1fr;
     border-top: 1px solid gray;
 }
-#mainwords{ border-left: 1px solid gray; padding-left: 10px;}
+.mainwords{ border-left: 1px solid gray; padding-left: 10px;}
 @media(max-width:800px){#grid{ display: block; border-top: none;}#mainwords{ border-left: none;padding-left: 0px;}}
-#mainwords h3{ border-bottom: 1px dotted gray;margin-bottom: 10px;}
-#mainwords img{width:720px;height: 300px;}
-.logo{width:240;height: 25px;}
+.mainwords h2{ border-bottom: 1px dotted gray;padding-bottom: 25px;padding-left: 30px;}
+.mainwords .logo{width:480px;height:48px;margin-bottom: 25px;margin-top: 25px;}
+.mainwords .smallwords .face{width:480;height: 480;margin-bottom: 25px;}
+.mainwords img{width:480px;height: 480px;}
+.mainwords .smallwords {text-align: center;}
+.mainwords .smallwords .sonjel {font-weight: bold;color: red;}
+
 
 
 
