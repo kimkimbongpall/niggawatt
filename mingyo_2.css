@@ -1,10 +1,18 @@
+/*nav bar css decoration*/
+.nav-container {display: flex;flex-direction: row;width: 100%;margin: 0%;padding: 0%;list-style-type: none;border-bottom: 1px solid gray;}
+.nav-item {margin-left: 10px;padding: 10px;padding-left: 10%;cursor: pointer;}
+.nav-item a {text-align: center;text-decoration: none;}
+
+/*header css decoration*/
 .header {text-align: center;margin-top: 5px;border-bottom: 1px solid gray;padding-bottom: 15px;}
 .header h1 {font-size: 50px;font-weight: bold;}
 .header h2 {font-size:28px;font-weight: 500;margin-top: -35px;}
 .header .subh {font-size: 12px;color: gray;margin-top: 25px;margin-bottom: 20px;}
 .header video {max-width: 120%;display: block;margin: 20px auto;  clip-path: circle(50%);height: 120%;}
-.header .input_1 {margin-top: 12px;font-size: 12px;font-weight: bold;}
 
 /*Body css decoration*/
 
+a{text-decoration: none;color: black;font-weight: bolder;}
 .mainwords .words_1{text-align: center;margin-top: 25px;font-size: 17px;}
+.mainwords .examples .example1{margin-left: 25px;display: block;margin-top: 10px;}
+.mainwords .examples .example1 .exex1{text-decoration: none;margin-left: 10%;}
