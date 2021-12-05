@@ -14,5 +14,5 @@
 
 a{text-decoration: none;color: black;font-weight: bolder;}
 .mainwords .words_1{text-align: center;margin-top: 25px;font-size: 17px;}
-.mainwords .examples .example1{margin-left: 25px;display: block;margin-top: 10px;}
+.mainwords .examples .example1{margin-left: 80px; display: block;margin-top: 10px;padding-left: 500px;padding-top: 400px;text-decoration: none;}
 .mainwords .examples .example1 .exex1{text-decoration: none;margin-left: 10%;}
